@@ -11,7 +11,7 @@ print(f'Original np2: {np2}')
 np1[1]=10
 print(f'Chnage np1: {np1}')
 print(f'CHANGED np2: {np2}')
-# Chnge in the original VIEW will also get chnge 
+# Chnge in the original VIEW will also get chnge VICE VERSA
 ''' 
 
 # COPY 
